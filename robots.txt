@@ -1,0 +1,5 @@
+
+Sitemap: https://volkansalma.github.io/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://volkansalma.github.io
