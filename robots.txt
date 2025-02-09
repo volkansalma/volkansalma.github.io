@@ -1,5 +1,5 @@
 
-Sitemap: https://volkans.vsapps.nl/sitemap.xml
+Sitemap: https://volkan.vsapps.nl/sitemap.xml
 User-Agent: *
 Allow: /
-Host: https://volkans.vsapps.nl
+Host: https://volkan.vsapps.nl

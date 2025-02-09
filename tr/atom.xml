@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
     <title>VSBlog</title>
     <subtitle>Volkan&#x27;in farkli alanlardaki paylasimlari</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://volkansalma.github.io/tr/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://volkansalma.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://volkan.vsapps.nl/tr/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://volkan.vsapps.nl"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-02-07T15:00:00+00:00</updated>
-    <id>https://volkansalma.github.io/tr/atom.xml</id>
+    <id>https://volkan.vsapps.nl/tr/atom.xml</id>
     <entry xml:lang="tr">
         <title>Test postasi</title>
         <published>2025-02-07T15:00:00+00:00</published>
@@ -20,8 +20,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://volkansalma.github.io/tr/test-post/"/>
-        <id>https://volkansalma.github.io/tr/test-post/</id>
+        <link rel="alternate" type="text/html" href="https://volkan.vsapps.nl/tr/test-post/"/>
+        <id>https://volkan.vsapps.nl/tr/test-post/</id>
         
         <summary type="html">&lt;p&gt;Bu bir test postasi&lt;&#x2F;p&gt;
 </summary>
