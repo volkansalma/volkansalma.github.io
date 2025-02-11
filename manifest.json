@@ -1,7 +1,7 @@
 {
-    "name": "Abridge Zola Theme",
-    "short_name": "Abridge",
-    "description": "Fast and Lightweight Zola Theme",
+    "name": "Volkan's Blog",
+    "short_name": "VSBlog",
+    "description": "Thoughts and share of Volkan",
     "background_color": "#111111",
     "theme_color": "#333333",
     "display": "standalone",
